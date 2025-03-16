@@ -3,6 +3,7 @@
    
    Users can view images in a grid, click to enlarge them in a modal (popup), and navigate between images seamlessly.
 
+
 TECHNOLOGY USED:
 
   HTML: To structure the gallery layout and image elements.
@@ -10,6 +11,7 @@ TECHNOLOGY USED:
   CSS: For styling the gallery, adding hover effects, grid arrangement, responsive design, and smooth transitions.
   
   JavaScript: To add interactivity, such as opening images in a lightbox/modal, navigating between images, and closing the modal.
+  
   
 KEY FEATURES:
 
@@ -24,6 +26,7 @@ KEY FEATURES:
   Close button or click outside to exit the enlarged view.
   
   Clean and minimalistic design, easy to customize.
+
 
 LEARNING OBJECTIVES:
 
